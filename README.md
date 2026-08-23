@@ -136,7 +136,7 @@ Accuracy составляет около 0.92 для всех моделей-к�
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Dima-Mendoza/Home-Credit-Default-Risk
 cd home-credit-default-risk
 ```
 
